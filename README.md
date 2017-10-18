@@ -1,6 +1,6 @@
 # Aerodynamics
 
-Here I keep the reports of experiments I do in the Aerodynamics Lab
+Here I keep the reports of experiments I do in the Aerodynamics Lab.
 
 The course name is AE39001.
 
